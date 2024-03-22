@@ -5,6 +5,10 @@ Jest to aplikacja umożliwiająca tworzenie, edytowanie oraz usuwanie notatek. P
 
 W głównym oknie aplikacji mamy możliwość sortowania notatek oraz wyświetlania notatek konkretnych poziomów ważności poprzez guziki reprezentujące wagę notatki poprzez ilość gwiazdek. 
 
+![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/6838b6ba-9ed0-4d15-9e4b-fc012635f15a)
+
+Po kliknięciu „dodaj”, zostajemy przekierowani do okna tworzenia nowej notatki. Możemy stąd wrócić do poprzedniego okna klikając „back”. Tutaj podajemy nazwę, kategorię i treść notatki, jak również ustalamy jej wagę. 
+
 ![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/006753ee-1ee3-4be9-a579-58778ba91f3f)
 
 Po kliknięciu „dodaj”, zostajemy przekierowani do okna tworzenia nowej notatki. Możemy stąd wrócić do poprzedniego okna klikając „back”. Tutaj podajemy nazwę, kategorię i treść notatki, jak również ustalamy jej wagę. 
