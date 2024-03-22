@@ -9,11 +9,11 @@ W głównym oknie aplikacji mamy możliwość sortowania notatek oraz wyświetla
 
 Po kliknięciu „dodaj”, zostajemy przekierowani do okna tworzenia nowej notatki. Możemy stąd wrócić do poprzedniego okna klikając „back”. Tutaj podajemy nazwę, kategorię i treść notatki, jak również ustalamy jej wagę. 
 
-![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/3a6c85cf-d2f8-4040-aec1-1fcbde4d4e0c)
+![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/38b9ec7e-d03d-4e14-bac9-48ead71b8a4c)
 
 Teraz nasza notatka pojawiła się na liście. Jako że waga została ustalona na 3 (w nowszych modelach telefonów wyswietlają sie gwiazdki zamiast liczb), jesteśmy informowani, że ilość notatek bardzo ważnych jest równa 1.
 
-![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/38b9ec7e-d03d-4e14-bac9-48ead71b8a4c)
+![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/3a6c85cf-d2f8-4040-aec1-1fcbde4d4e0c)
 
 Klikając w notatkę otwiera się okno edycji notatki, w którym możemy zmienić jej dane. To okno umożliwia również usunięcie konkretnej notatki.
 
