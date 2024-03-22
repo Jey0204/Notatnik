@@ -1,1 +1,2 @@
 # Notatnik
+Jest to aplikacja umożliwiająca tworzenie, edytowanie oraz usuwanie notatek. Proces tworzenia polega na nadaniu nazwy notatce, określeniu jej kategorii, ustaleniu poziomu ważności (1-3) notatki oraz wprowadzeniu jej faktycznej treści. W głównym oknie, wyświetlającym listę stworzonych notatek mamy możliwość sortowania notatek wg kategorii oraz ważności. Oprócz tego możemy również wyświetlać notatki posiadające konkretny poziom ważności. Jednocześnie w górnej części ekranu jesteśmy stale informowani o ilości notatek o najwyższym stopniu ważności. 
