@@ -11,7 +11,7 @@ After clicking "add", we are redirected to the window for creating a new note. F
 
 ![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/38b9ec7e-d03d-4e14-bac9-48ead71b8a4c)
 
-Now our note has appeared on the list. Since the weight is set to 3 (newer phone models display asterisks instead of numbers), we are informed that the number of very important notes is equal to 1.
+Now our note has appeared on the list. Since the weight is set to 3 (newer phone models display stars instead of numbers), we are informed that the number of very important notes is equal to 1.
 
 ![obraz](https://github.com/Jey0204/Notatnik/assets/130754053/3a6c85cf-d2f8-4040-aec1-1fcbde4d4e0c)
 
